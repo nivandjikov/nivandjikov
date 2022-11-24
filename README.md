@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikola Ivandjikov
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning JavaScript in SoftwareUniversity
-- 📫 How to reach me - LinkedIn
+- 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/nikola-ivandjikov/)
 
 <!---
 nivandjikov/nivandjikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
